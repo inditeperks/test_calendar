@@ -1,0 +1,27 @@
+[
+  {
+    "EventID": 1011,
+    "Title": "Test1",
+    "Description": "Holiday for the International Labour Day",
+    "StartDate": "2021-06-24T15:40:51",
+    "StartTime": "00:00:00",
+    "EndDate": "2021-06-25T00:00:00",
+    "EndTime": "00:00:00",
+    "IsFullDay": true,
+    "IsHoliday": false,
+    "DateTime": null
+  },
+  {
+    "EventID": 1020,
+    "Title": "Test2",
+    "Description": "",
+    "StartDate": "2021-06-23T00:00:00",
+    "StartTime": "05:45:00",
+    "EndDate": "2021-06-24T00:00:00",
+    "EndTime": "05:45:00",
+    "IsFullDay": false,
+    "IsHoliday": false,
+    "DateTime": null
+  }
+
+]
